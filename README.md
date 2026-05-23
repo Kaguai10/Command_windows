@@ -21,15 +21,6 @@ Melalui repository ini, pembaca dapat memahami bagaimana Windows bekerja dari si
 Jika kamu ingin meningkatkan skill Windows, memahami proses sistem lebih dalam, atau membutuhkan catatan command yang rapi dan siap digunakan kapan saja, repository ini dibuat untuk membantu kebutuhan tersebut.
 
 ---
-# Persiapan Belajar
-
-Sebelum mulai, pastikan kamu punya:
-
-- **Komputer atau laptop** dengan akses ke terminal Linux atau PowerShell  
-- Kalau gak punya komputer, tenang! Kamu bisa pakai smartphone dengan aplikasi seperti **Termux** yang bisa kamu unduh di [sini](https://termux.com/)  
-- Semangat belajar yang tinggi dan rasa ingin tahu yang besar! 
-
----
 
 # Daftar Modul
 
